@@ -17,4 +17,5 @@ export const ROUTES: Routes = [
        ]
     },
     { path: 'about', component: AboutComponent}
+
 ]
