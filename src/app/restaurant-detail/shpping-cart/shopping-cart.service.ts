@@ -8,7 +8,6 @@ export class ShoppingCartService {
     clear(){
         this.items = []
     }
-
     addItem( item: MenuItem ){
       let foundItem = this.items.find( (mItem) => mItem.menuItem.id === item.id )
       if( foundItem ){
