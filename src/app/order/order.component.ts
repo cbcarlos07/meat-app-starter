@@ -1,9 +1,10 @@
 import { Component, OnInit } from '@angular/core';
+import { Router} from "@angular/router";
 import {RadioOption} from "../shared/radio/radio-option.model";
 import {OrderService} from "./order.service";
 import {CartItem} from "../restaurant-detail/shpping-cart/cart-item.model";
 import {Order, OrderItem} from "./order.model";
-import {strictEqual} from "assert";
+
 
 
 @Component({
@@ -18,7 +19,8 @@ export class OrderComponent implements OnInit {
         {label: 'Cartão de Débito', value: 'DEB'},
         {label: 'Cartão Refeição', value: 'REF'}
       ]
-  constructor( private orderService: OrderService) { }
+  constructor( private orderService: OrderService,
+               private router: Router) { }
 
   ngOnInit() {
   }
@@ -46,10 +48,11 @@ export class OrderComponent implements OnInit {
   checkOrder( order: Order ){
         order.orderItems = this.cartItems()
             .map( (item: CartItem) => new OrderItem( item.quantity, item.menuItem.id ) )
-            this.orderService.checkOrder( order ).subscribe( (orderId: string) => {
-                console.log( `Compra concluida: ${orderId}` )
-                this.orderService.clear()
-            } )
+            this.orderService.checkOrder( order )
+                .subscribe( (orderId: string) => {
+                   this.router.navigate( ['/order-sumary'] )
+                   this.orderService.clear()
+                } )
         console.log( order )
   }
 

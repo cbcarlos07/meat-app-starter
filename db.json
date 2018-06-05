@@ -387,6 +387,36 @@
         }
       ],
       "id": 1
+    },
+    {
+      "address": "Nome da rua",
+      "number": "55",
+      "optionalAddress": "casa",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "capp"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "address": "outra rua",
+      "number": "00",
+      "optionalAddress": "casa",
+      "paymentOption": "DEB",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "capp"
+        },
+        {
+          "quantity": 1,
+          "menuId": "starb"
+        }
+      ],
+      "id": 3
     }
   ]
 }
