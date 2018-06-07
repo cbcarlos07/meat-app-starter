@@ -26,6 +26,7 @@ import {OrderItemsComponent} from "./order/order-items/order-items.component";
 import {OrderService} from "./order/order.service";
 import { DeliveryCostsComponent } from './order/delivery-costs/delivery-costs.component';
 import { OrderSumaryComponent } from './order/order-sumary/order-sumary.component';
+import { RatingComponent } from './shared/rating/rating.component';
 
 
 
@@ -48,7 +49,8 @@ import { OrderSumaryComponent } from './order/order-sumary/order-sumary.componen
     RadioComponent,
     OrderItemsComponent,
     DeliveryCostsComponent,
-    OrderSumaryComponent
+    OrderSumaryComponent,
+    RatingComponent
   ],
   imports: [
     BrowserModule,
