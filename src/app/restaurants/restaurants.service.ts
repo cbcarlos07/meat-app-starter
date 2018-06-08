@@ -29,7 +29,7 @@ export class RestaurantsService {
             rating: 3.5,
             imagePath: "assets/img/restaurants/burgerhouse.png"
 
-        }
+        }ngsr
 
     ]*/
     restaurants(): Observable<Restaurant[]> {

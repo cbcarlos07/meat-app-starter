@@ -18,8 +18,12 @@
       </div>
 
       <div class="row">
-        <div class="col-xs-12">
-          <p class="lead">Seus dados</p>
+        <div class="col-xs-12 col-sm-9">
+          <p class="lead">Seus dados </p>
+        </div>
+        <div class="col-xs-12 col-sm-3">
+          <span class="help-block pull-right has-error-block" *ngIf="orderForm.hasError('emailsNotMatch')"><i class="fa fa-remove"></i>E-mail's não conferem</span>
+        </div>
           <div class="col-sm-6 col-xs-12">
             <mt-input-container errorMessage="Campo obrigatório e com 5 caracteres" label="Nome">
               <input formControlName="name" placeholder="Nome" class="form-control" autocomplete="off">
@@ -39,7 +43,7 @@
           </div>
 
         </div>
-      </div>
+
 
 
       <div class="row">
