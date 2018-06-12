@@ -13,7 +13,7 @@ import {animate, state, style, transition, trigger} from "@angular/animations";
           })),
           state('visible', style({
               opacity: 1,
-              bottom: '0px' 
+              bottom: '0px'
           })),
           transition('hidden => visible', animate('500ms 0s ease-in')),
           transition('hidden => visible', animate('500ms 0s ease-out'))
