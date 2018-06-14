@@ -19,7 +19,7 @@ import  'rxjs/add/observable/timer'
               bottom: '0px'
           })),
           transition('hidden => visible', animate('500ms 0s ease-in')),
-          transition('hidden => visible', animate('500ms 0s ease-out'))
+          transition('visible => hidden', animate('500ms 0s ease-out'))
         ])
   ]
 })
