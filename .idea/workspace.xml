@@ -2,8 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26745513-1120-4f4f-bdff-90265eeb1e69" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/dist/0.51ccaeae369b5af72a02.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/1.fda76c7b6d080d7e9c28.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/3rdpartylicenses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/credit/american-express.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/credit/cirrus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/credit/mastercard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/credit/mestro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/credit/paypal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/credit/paypal2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/credit/visa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/bread.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/burger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/cake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/capp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/ceasar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/chocpop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/coke.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/croissant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/cup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/cupcake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/donut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/espreso.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/fries.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/greensandwich.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/icestd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/starb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/straw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/sunday.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/foods/zlasagna.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/reactions/loved.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/reactions/pissed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/reactions/soso.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/restaurants/breadbakery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/restaurants/burgerhouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/restaurants/coffeecorner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/restaurants/cupcake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/restaurants/greenfood.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/restaurants/hotcoffee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/restaurants/icy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/img/restaurants/tasty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/boxed-bg.7799dece2c79854f63f0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fontawesome-webfont.674f50d287a8c48dc19b.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fontawesome-webfont.acf3dcb7ff752b5296ca.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fontawesome-webfont.af7ae505a9eed503f8b8.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fontawesome-webfont.b06871f281fee6b241d6.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/fontawesome-webfont.fee66e712a8a08eef580.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/glyphicons-halflings-regular.448c34a56d699c29117a.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/glyphicons-halflings-regular.e18bbf611f2a2e43afc0.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/glyphicons-halflings-regular.f4769f9bdb7466be6508.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/glyphicons-halflings-regular.f721466883998665b879.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/glyphicons-halflings-regular.fa2772327f55d8198301.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/inline.9f88d97324fef88d0389.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.47704b2e1b301c013d30.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/polyfills.f36cef73db79477539f6.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/scripts.f1cbbcccdb453cece053.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/styles.50468c5efad9b9cd3e33.bundle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/vendor.75c226a5b9642717c9da.bundle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,43 +73,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="restaurant.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/restaurants/restaurant/restaurant.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="8" selection-start-line="8" selection-start-column="6" selection-end-line="14" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="menu-item.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/restaurant-detail/menu-item/menu-item.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="not-found.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/not-found/not-found.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="not-found.component.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/app/not-found/not-found.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
-            </state>
-          </provider>
+      <file leaf-file-name="environment.prod.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/environments/environment.prod.ts">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -85,10 +110,7 @@
         <option value="$PROJECT_DIR$/src/app/order/delivery-costs/delivery-costs.component.html" />
         <option value="$PROJECT_DIR$/src/app/order/order.model.ts" />
         <option value="$PROJECT_DIR$/src/app/order/order.service.ts" />
-        <option value="$PROJECT_DIR$/src/app/order/order-sumary/order-sumary.component.ts" />
-        <option value="$PROJECT_DIR$/src/app/app.routes.ts" />
         <option value="$PROJECT_DIR$/src/app/shared/rating/rating.component.html" />
-        <option value="$PROJECT_DIR$/src/app/order/order-sumary/order-sumary.component.html" />
         <option value="$PROJECT_DIR$/src/app/shared/rating/rating.component.ts" />
         <option value="$PROJECT_DIR$/src/app/shared/input/input.component.ts" />
         <option value="$PROJECT_DIR$/src/app/restaurants/restaurants.service.ts" />
@@ -114,6 +136,10 @@
         <option value="$PROJECT_DIR$/src/app/restaurant-detail/shpping-cart/shopping-cart.component.ts" />
         <option value="$PROJECT_DIR$/src/app/not-found/not-found.component.ts" />
         <option value="$PROJECT_DIR$/src/app/not-found/not-found.component.html" />
+        <option value="$PROJECT_DIR$/src/app/app.routes.ts" />
+        <option value="$PROJECT_DIR$/src/app/restaurants/restaurant/restaurant.model.ts" />
+        <option value="$PROJECT_DIR$/src/app/order/order-sumary/order-sumary.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/order/order-sumary/order-sumary.component.html" />
       </list>
     </option>
   </component>
@@ -152,67 +178,39 @@
             <path>
               <item name="meat-app-starter" type="b2602c69:ProjectViewProjectNode" />
               <item name="meat-app-starter" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dist" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="meat-app-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meat-app-starter" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dist" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="meat-app-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meat-app-starter" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dist" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="meat-app-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meat-app-starter" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dist" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="credit" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="meat-app-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meat-app-starter" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="meat-app-starter" type="b2602c69:ProjectViewProjectNode" />
               <item name="meat-app-starter" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="meat-app-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meat-app-starter" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="not-found" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="meat-app-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meat-app-starter" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="restaurant-detail" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="meat-app-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meat-app-starter" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="restaurant-detail" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="menu-item" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="meat-app-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meat-app-starter" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="restaurant-detail" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shpping-cart" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="meat-app-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meat-app-starter" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="meat-app-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meat-app-starter" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="messages" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="meat-app-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meat-app-starter" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="messages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="snackbar" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="environments" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -271,7 +269,7 @@
       <workItem from="1528904163026" duration="3905000" />
       <workItem from="1528992170946" duration="1115000" />
       <workItem from="1529423886390" duration="2848000" />
-      <workItem from="1529509398243" duration="1713000" />
+      <workItem from="1529509398243" duration="2713000" />
     </task>
     <task id="LOCAL-00001" summary="Ordem de compra">
       <created>1527092641496</created>
@@ -399,15 +397,28 @@
       <option name="project" value="LOCAL" />
       <updated>1529510846762</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Aula 93 seção 10 Rotas com wildcard (Criando página não encontrada)">
+      <created>1529511341354</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1529511341354</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Aula 94 seção 10 Construindo aplicação">
+      <created>1529512095827</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1529512095827</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50022000" />
+    <option name="totallyTimeSpent" value="51022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -452,30 +463,11 @@
     <MESSAGE value="Aula 88 seção 9 Animação com Void e estilos em transições (Restaurants)" />
     <MESSAGE value="Aula 89 seção 9 Animação nos itens do meu" />
     <MESSAGE value="Aula 91 seção 9 Usando animações animação com keyframes nos itens dos carrinhos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 91 seção 9 Usando animações animação com keyframes nos itens dos carrinhos" />
+    <MESSAGE value="Aula 93 seção 10 Rotas com wildcard (Criando página não encontrada)" />
+    <MESSAGE value="Aula 94 seção 10 Construindo aplicação" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 94 seção 10 Construindo aplicação" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/app/shared/input/input.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/shared/input/input.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/order/order.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -560,20 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.routes.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/order/order-sumary/order-sumary.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5092">
@@ -613,13 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="32" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/order/order-sumary/order-sumary.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -797,13 +768,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/restaurant-detail/menu-item/menu-item.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/not-found/not-found.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -811,12 +775,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/not-found/not-found.component.html">
+    <entry file="file://$PROJECT_DIR$/src/app/restaurant-detail/menu-item/menu-item.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="79" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/not-found/not-found.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.routes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/restaurants/restaurant/restaurant.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/order/order-sumary/order-sumary.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/order/order-sumary/order-sumary.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.prod.ts">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
