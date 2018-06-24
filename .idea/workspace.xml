@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="26745513-1120-4f4f-bdff-90265eeb1e69" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/restaurants/restaurants.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/restaurants/restaurants.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/restaurants/restaurants.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/restaurants/restaurants.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/restaurants/restaurants.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/restaurants/restaurants.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,20 +20,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="restaurants.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/restaurants/restaurants.component.html">
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            <state relative-caret-position="270">
+              <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="restaurants.component.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shared.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/shared/shared.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="restaurants.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/restaurants/restaurants.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            <state relative-caret-position="220">
+              <caret line="53" column="41" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -41,11 +53,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="restaurant.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/restaurants/restaurant/restaurant.component.ts">
+      <file leaf-file-name="restaurants.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/restaurants/restaurants.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="81" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="81" />
+            <state relative-caret-position="285">
+              <caret line="36" column="80" lean-forward="true" selection-start-line="36" selection-start-column="80" selection-end-line="36" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="restaurants.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/restaurants/restaurants.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -53,8 +74,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="271" column="17" selection-start-line="271" selection-start-column="17" selection-end-line="271" selection-end-column="17" />
+            <state relative-caret-position="357">
+              <caret line="276" column="18" selection-start-line="276" selection-start-column="18" selection-end-line="276" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -94,7 +115,6 @@
         <option value="$PROJECT_DIR$/src/app/shared/rating/rating.component.html" />
         <option value="$PROJECT_DIR$/src/app/shared/rating/rating.component.ts" />
         <option value="$PROJECT_DIR$/src/app/shared/input/input.component.ts" />
-        <option value="$PROJECT_DIR$/src/app/restaurants/restaurants.service.ts" />
         <option value="$PROJECT_DIR$/src/app/order/order.component.ts" />
         <option value="$PROJECT_DIR$/src/app/order/order.component.html" />
         <option value="$PROJECT_DIR$/src/app/core/core.module.ts" />
@@ -125,8 +145,9 @@
         <option value="$PROJECT_DIR$/src/app/app.api.ts" />
         <option value="$PROJECT_DIR$/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/src/styles.css" />
-        <option value="$PROJECT_DIR$/src/app/restaurants/restaurants.component.html" />
+        <option value="$PROJECT_DIR$/src/app/restaurants/restaurants.service.ts" />
         <option value="$PROJECT_DIR$/src/app/restaurants/restaurants.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/restaurants/restaurants.component.html" />
       </list>
     </option>
   </component>
@@ -147,8 +168,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1922" />
-    <option name="height" value="1047" />
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1306" />
+    <option name="height" value="681" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -186,14 +209,7 @@
               <item name="meat-app-starter" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="restaurants" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="restaurant" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="meat-app-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meat-app-starter" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="environments" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -210,6 +226,1073 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\www\meat-app-starter\src\app\shared\messages" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/adm-zip/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/adm-zip/adm-zip.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/adm-zip/headers/entryHeader.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/adm-zip/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/adm-zip/util/fattr.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/adm-zip/util/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/adm-zip/util/utils.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/adm-zip/zipEntry.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/adm-zip/zipFile.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/base64-js/base64js.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/base64-js/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/base64-js/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/base64-js/test/big-data.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/base64-js/test/convert.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/base64-js/test/url-safe.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/data.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/aac.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/ac3-ec3.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/addeventlistener.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/alternate-stylesheet.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/ambient-light.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/apng.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/array-includes.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/arrow-functions.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/asmjs.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/async-functions.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/async-iterations-and-generators.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/atob-btoa.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/audio-api.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/audio.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/audiotracks.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/autofocus.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/auxclick.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/background-attachment.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/background-img-opts.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/background-position-x-y.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/background-repeat-round-space.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/background-sync.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/battery-status.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/beacon.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/beforeafterprint.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/blobbuilder.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/bloburls.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/border-image.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/border-radius.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/broadcastchannel.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/brotli.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/calc.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/canvas-blending.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/canvas-text.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/canvas.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/ch-unit.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/chacha20-poly1305.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/channel-messaging.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/childnode-remove.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/classlist.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/client-hints-dpr-width-viewport.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/clipboard.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/comparedocumentposition.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/console-basic.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/console-time.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/const.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/constraint-validation.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/contenteditable.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/contentsecuritypolicy.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/contentsecuritypolicy2.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/cors.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/credential-management.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/cryptography.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-all.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-animation.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-any-link.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-appearance.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-apply-rule.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-at-counter-style.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-backdrop-filter.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-background-offsets.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-backgroundblendmode.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-boxdecorationbreak.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-boxshadow.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-canvas.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-caret-color.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-case-insensitive.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-clip-path.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-color-adjust.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-conic-gradients.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-containment.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-counters.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-crisp-edges.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-cross-fade.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-default-pseudo.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-descendant-gtgt.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-deviceadaptation.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-dir-pseudo.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-display-contents.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-element-function.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-exclusions.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-featurequeries.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-filter-function.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-filters.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-first-letter.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-first-line.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-fixed.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-focus-visible.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-focus-within.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-font-rendering-controls.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-font-stretch.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-gencontent.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-gradients.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-grid.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-hanging-punctuation.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-has.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-hyphenate.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-hyphens.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-image-orientation.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-image-set.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-in-out-of-range.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-indeterminate-pseudo.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-initial-letter.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-initial-value.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-letter-spacing.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-line-clamp.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-logical-props.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-marker-pseudo.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-masks.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-matches-pseudo.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-media-interaction.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-media-resolution.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-media-scripting.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-mediaqueries.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-mixblendmode.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-motion-paths.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-namespaces.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-not-sel-list.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-nth-child-of.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-opacity.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-optional-pseudo.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-overflow-anchor.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-overscroll-behavior.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-page-break.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-paged-media.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-paint-api.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-placeholder-shown.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-placeholder.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-read-only-write.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-rebeccapurple.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-reflections.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-regions.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-repeating-gradients.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-resize.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-revert-value.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-rrggbbaa.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-scroll-behavior.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-scrollbar.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-sel2.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-sel3.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-selection.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-shapes.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-snappoints.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-sticky.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-supports-api.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-table.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-text-align-last.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-text-indent.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-text-justify.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-text-orientation.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-text-spacing.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-textshadow.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-touch-action-2.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-touch-action.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-transitions.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-unicode-bidi.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-unset-value.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-variables.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-widows-orphans.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-writing-mode.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css-zoom.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-attr.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-boxsizing.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-colors.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-cursors-grab.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-cursors-newer.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-cursors.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/css3-tabsize.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/currentcolor.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/custom-elements.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/custom-elementsv1.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/customevent.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/datalist.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/dataset.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/datauri.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/details.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/deviceorientation.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/devicepixelratio.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/dialog.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/dispatchevent.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/do-not-track.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/document-currentscript.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/document-evaluate-xpath.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/document-execcommand.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/document-scrollingelement.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/documenthead.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/dom-manip-convenience.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/dom-range.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/domcontentloaded.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/domfocusin-domfocusout-events.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/dommatrix.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/download.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/dragndrop.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/element-closest.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/element-from-point.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/eme.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/eot.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/es5.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-class.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-generators.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-module-dynamic-import.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-module.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-number.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/es6-string-includes.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/eventsource.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/fetch.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/fieldset-disabled.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/fileapi.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/filereader.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/filereadersync.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/filesystem.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/flac.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/flexbox.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/flow-root.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/focusin-focusout-events.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/focusoptions-preventscroll.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-family-system-ui.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-feature.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-kerning.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-loading.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-size-adjust.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-smooth.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-unicode-range.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-variant-alternates.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/font-variant-east-asian.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/fontface.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/form-attribute.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/form-submit-attributes.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/form-validation.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/forms.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/fullscreen.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/gamepad.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/geolocation.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/getboundingclientrect.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/getcomputedstyle.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/getelementsbyclassname.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/getrandomvalues.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/hardwareconcurrency.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/hashchange.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/heif.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/hevc.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/hidden.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/high-resolution-time.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/history.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/html-media-capture.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/html5semantic.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/http-live-streaming.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/http2.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/iframe-sandbox.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/iframe-seamless.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/iframe-srcdoc.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/imagecapture.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/ime.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/img-naturalwidth-naturalheight.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/imports.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/indeterminate-checkbox.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/indexeddb.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/indexeddb2.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/inline-block.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/innertext.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-autocomplete-onoff.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-color.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-datetime.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-email-tel-url.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-event.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-file-accept.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-file-directory.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-file-multiple.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-inputmode.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-minlength.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-number.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-pattern.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-placeholder.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-range.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-search.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/input-selection.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/insert-adjacent.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/insertadjacenthtml.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/internationalization.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/intersectionobserver.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/intrinsic-width.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/jpeg2000.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/jpegxr.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/json.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/kerning-pairs-ligatures.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-charcode.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-code.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-getmodifierstate.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-key.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-location.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/keyboardevent-which.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/lazyload.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/let.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-icon-png.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-icon-svg.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-rel-dns-prefetch.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-rel-preconnect.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-rel-prefetch.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-rel-preload.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/link-rel-prerender.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/localecompare.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/matchesselector.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/matchmedia.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/mathml.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/maxlength.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/media-attribute.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/media-fragments.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/media-session-api.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/mediacapture-fromelement.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/mediarecorder.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/mediasource.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/menu.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/meter.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/midi.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/minmaxwh.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/mp3.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/mpeg-dash.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/mpeg4.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/multibackgrounds.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/multicolumn.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/mutation-events.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/mutationobserver.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/namevalue-storage.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/nav-timing.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/navigator-language.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/netinfo.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/node-contains.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/node-parentelement.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/notifications.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/object-fit.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/object-observe.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/object-values.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/objectrtc.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/offline-apps.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/offscreencanvas.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/ogg-vorbis.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/ogv.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/ol-reversed.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/once-event-listener.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/online-status.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/opus.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/outline.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/pad-start-end.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/page-transition-events.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/pagevisibility.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/passive-event-listener.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/path2d.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/payment-request.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/permissions-api.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/picture.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/ping.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/png-alpha.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/pointer-events.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/pointer.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/pointerlock.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/prefers-reduced-motion.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/progress.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/promises.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/proximity.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/proxy.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/publickeypinning.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/push-api.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/queryselector.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/readonly-attr.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/referrer-policy.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/registerprotocolhandler.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/rel-noopener.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/rel-noreferrer.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/rellist.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/rem.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/requestanimationframe.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/requestidlecallback.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/resizeobserver.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/resource-timing.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/rest-parameters.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/rtcpeerconnection.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/ruby.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/run-in.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/same-site-cookie-attribute.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/screen-orientation.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/script-async.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/script-defer.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/scrollintoview.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/scrollintoviewifneeded.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/sdch.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/selection-api.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/server-timing.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/serviceworkers.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/setimmediate.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/sha-2.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/shadowdom.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/shadowdomv1.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/sharedworkers.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/sni.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/spdy.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/speech-recognition.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/speech-synthesis.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/spellcheck-attribute.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/sql-storage.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/srcset.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/stopimmediatepropagation.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/stream.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/streams.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/stricttransportsecurity.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/style-scoped.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/subresource-integrity.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-css.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-filters.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-fonts.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-fragment.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-html.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-html5.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-img.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg-smil.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/svg.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/symbols.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/tabindex-attr.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/template-literals.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/template.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/testfeat.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/text-decoration.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/text-emphasis.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/text-overflow.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/text-size-adjust.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/text-stroke.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/textcontent.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/textencoder.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/tls1-1.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/tls1-2.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/tls1-3.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/token-binding.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/touch.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/transforms2d.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/transforms3d.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/ttf.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/typedarrays.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/u2f.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/unhandledrejection.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/upgradeinsecurerequests.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/url.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/urlsearchparams.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/use-strict.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/user-select-none.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/user-timing.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/variable-fonts.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/vibration.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/video.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/videotracks.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/viewport-units.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/wai-aria.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/wasm.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/wav.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/wbr-element.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/web-animation.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/web-app-manifest.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/web-bluetooth.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/web-share.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/webgl.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/webgl2.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/webm.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/webp.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/websockets.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/webusb.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/webvr.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/webvtt.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/webworkers.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/will-change.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/woff.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/woff2.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/word-break.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/wordwrap.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/x-doc-messaging.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/x-frame-options.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/xhr2.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/xhtml.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/xhtmlsmil.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/xml-serializer.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/fulldata-json/data-1.0.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/fulldata-json/data-2.0.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/deep-extend/CHANGELOG.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/deep-extend/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/deep-extend/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/deep-extend/lib/deep-extend.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/deep-extend/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/electron-to-chromium/full-chromium-versions.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/electron-to-chromium/full-versions.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/electron-to-chromium/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/eventemitter3/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/eventemitter3/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/eventemitter3/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/html-minifier/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/html-minifier/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/html-minifier/src/htmlminifier.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-parser-js/http-parser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-parser-js/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/common.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/passes/web-incoming.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/passes/web-outgoing.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/lib/http-proxy/passes/ws-incoming.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/CHANGELOG.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/README-cn.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/at-rule.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/comment.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/container.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/css-syntax-error.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/declaration.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/input.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/lazy-result.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/map-generator.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/node.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/parse.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/parser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/postcss.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/previous-map.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/processor.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/result.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/root.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/rule.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/stringify.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/lib/terminal-highlight.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/postcss/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/supports-color/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/icss-utils/node_modules/supports-color/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/less-loader/node_modules/clone/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/less-loader/node_modules/clone/clone.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/less-loader/node_modules/clone/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/lodash/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/lodash/_nodeUtil.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/lodash/core.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/lodash/core.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/lodash/lodash.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/lodash/lodash.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/lodash/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/bin/node-sass</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/lib/extensions.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/lib/render.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/binding.cpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/callback_bridge.h</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/GNUmakefile.am</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/configure.ac</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/implementations.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/docs/unicode.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/include/sass/context.h</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/script/tap-runner</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/context.cpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/context.hpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/cssize.cpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/debugger.hpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/eval.cpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/expand.cpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/file.cpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/file.hpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/functions.cpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/inspect.cpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/operators.cpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/parser.cpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/parser.hpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/prelexer.cpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass.cpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_context.cpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/sass_context.hpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/libsass/src/util.hpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/sass_context_wrapper.cpp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/sass_context_wrapper.h</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/pbkdf2/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/pbkdf2/browser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/pbkdf2/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/pbkdf2/lib/async.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/pbkdf2/lib/precondition.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/pbkdf2/lib/sync-browser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/pbkdf2/lib/sync.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/pbkdf2/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/CHANGELOG.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/README-cn.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/at-rule.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/comment.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/container.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/css-syntax-error.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/declaration.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/input.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/lazy-result.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/map-generator.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/node.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/parse.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/parser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/postcss.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/previous-map.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/processor.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/result.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/root.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/rule.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/stringify.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/lib/terminal-highlight.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/postcss/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/supports-color/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-extract-imports/node_modules/supports-color/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/CHANGELOG.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/README-cn.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/at-rule.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/comment.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/container.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/css-syntax-error.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/declaration.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/input.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/lazy-result.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/map-generator.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/node.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/parse.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/parser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/postcss.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/previous-map.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/processor.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/result.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/root.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/rule.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/stringify.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/lib/terminal-highlight.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/postcss/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/supports-color/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-local-by-default/node_modules/supports-color/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/CHANGELOG.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/README-cn.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/at-rule.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/comment.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/container.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/css-syntax-error.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/declaration.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/input.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/lazy-result.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/map-generator.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/node.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/parse.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/parser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/postcss.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/previous-map.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/processor.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/result.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/root.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/rule.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/stringify.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/lib/terminal-highlight.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/postcss/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/supports-color/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-scope/node_modules/supports-color/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/CHANGELOG.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/README-cn.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/at-rule.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/comment.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/container.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/css-syntax-error.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/declaration.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/input.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/lazy-result.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/map-generator.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/node.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/parse.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/parser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/postcss.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/previous-map.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/processor.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/result.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/root.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/rule.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/stringify.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/lib/terminal-highlight.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/postcss/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/supports-color/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/postcss-modules-values/node_modules/supports-color/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/protractor/node_modules/@types/node/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/protractor/node_modules/@types/node/index.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/protractor/node_modules/@types/node/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/ripemd160/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/ripemd160/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/safe-buffer/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/timers-browserify/CHANGELOG.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/timers-browserify/main.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/timers-browserify/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/toposort/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/toposort/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/toposort/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/toposort/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/uglify-js/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/uglify-js/lib/compress.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/uglify-js/lib/output.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/uglify-js/lib/scope.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/uglify-js/lib/utils.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/uglify-js/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/url-parse/dist/url-parse.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/url-parse/dist/url-parse.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/url-parse/dist/url-parse.min.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/url-parse/node_modules/querystringify/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/url-parse/node_modules/querystringify/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/url-parse/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/vendors/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/vendors/readme.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/watchpack/lib/DirectoryWatcher.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/watchpack/lib/watcherManager.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/watchpack/lib/watchpack.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/watchpack/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/package-lock.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/app.api.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/app.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/app.module.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/app.routes.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/order/order-sumary/order-sumary.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/order/order-sumary/order-sumary.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/restaurant-detail/menu-item/menu-item.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/restaurant-detail/menu-item/menu-item.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/restaurant-detail/shpping-cart/shopping-cart.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/restaurant-detail/shpping-cart/shopping-cart.service.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/restaurant-detail/shpping-cart/shpping-cart.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/restaurants/restaurant/restaurant.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/restaurants/restaurant/restaurant.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/restaurants/restaurant/restaurant.model.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/restaurants/restaurants.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/restaurants/restaurants.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/shared/shared.module.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/environments/environment.prod.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/environments/environment.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/polyfills.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/styles.css</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations.es5.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations.es5.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations/browser.es5.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations/browser.es5.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations/browser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations/browser.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations/browser/testing.es5.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations/browser/testing.es5.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations/browser/testing.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/@angular/animations/browser/testing.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/animations.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/animations.metadata.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser.metadata.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/index.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/index.metadata.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/public_api.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/animation_engine.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/browser.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_dsl_visitor.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_timeline_instruction.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_timeline_visitor.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_transition_expr.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_transition_factory.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_transition_instruction.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_trigger.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/animation_validator_visitor.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/style_normalization/animation_style_normalizer.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/dsl/style_normalization/web_animations_style_normalizer.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/private_export.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/animation_driver.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/animation_driver.metadata.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/animation_engine_instruction.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/dom_animation_engine.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/noop_animation_engine.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/web_animations/dom_animation.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/web_animations/web_animations_driver.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/render/web_animations/web_animations_player.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/src/util.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/testing.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/testing.metadata.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/testing/index.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/testing/index.metadata.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/testing/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/testing/src/mock_animation_driver.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/testing/src/mock_animation_driver.metadata.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/testing/src/testing.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/browser/testing/src/testing.metadata.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser-testing.umd.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser-testing.umd.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser-testing.umd.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser-testing.umd.min.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser.umd.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser.umd.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser.umd.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations-browser.umd.min.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations.umd.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations.umd.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations.umd.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/bundles/animations.umd.min.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/public_api.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/src/animation_event.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/src/animation_metadata.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/src/animations.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/src/players/animation_group_player.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/src/players/animation_player.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/src/private_export.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/@angular/animations/src/util.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/adm-zip/util/fileSystem.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/base64-js/test/corrupt.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/accelerometer.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/gyroscope.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/magnetometer.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/meta-theme-color.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/caniuse-db/features-json/orientation-sensor.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/compression/node_modules/safe-buffer/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/compression/node_modules/safe-buffer/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/compression/node_modules/safe-buffer/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/compression/node_modules/safe-buffer/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/compression/node_modules/safe-buffer/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/compression/node_modules/safe-buffer/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/eventemitter3/index.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/eventemitter3/umd/eventemitter3.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/eventemitter3/umd/eventemitter3.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/eventemitter3/umd/eventemitter3.min.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/express/node_modules/safe-buffer/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/express/node_modules/safe-buffer/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/express/node_modules/safe-buffer/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/express/node_modules/safe-buffer/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/express/node_modules/safe-buffer/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/express/node_modules/safe-buffer/test.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/http.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/https.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/.coveralls.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/.eslintrc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/CHANGELOG.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/Makefile</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/karma.conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/node.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/src/browser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/src/debug.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/src/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/node_modules/debug/src/node.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/follow-redirects/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/.nyc_output/964792f65a1be0c07a24aa0ccfb5d038.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/.nyc_output/a290d7f5908ec7d06d33ee34e792483c.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/.nyc_output/bb60b90ed8ee70af09b130b7e0e44671.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/CODE_OF_CONDUCT.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/codecov.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/base.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/block-navigation.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/http-proxy/common.js.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/http-proxy/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/http-proxy/passes/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/http-proxy/passes/web-incoming.js.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/http-proxy/passes/web-outgoing.js.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/lib/http-proxy.js.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/lib/http-proxy/common.js.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/lib/http-proxy/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/lib/http-proxy/index.js.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/lib/http-proxy/passes/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/lib/http-proxy/passes/web-incoming.js.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/lib/http-proxy/passes/web-outgoing.js.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/lib/http-proxy/passes/ws-incoming.js.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/lib/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/prettify.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/prettify.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/sort-arrow-sprite.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov-report/sorter.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/coverage/lcov.info</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/src/.DS_Store</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/vendor/win32-x64-64/binding.node</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/ripemd160/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/safe-buffer/index.d.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/History.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/animation.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/apply-preserving-inline-style.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/apply.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/box-handler.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/color-handler.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/deprecation.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/dev.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/dimension-handler.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/effect-callback.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/element-animatable.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/font-weight-handler.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/group-constructors.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/handler-utils.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/interpolation.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/keyframe-effect-constructor.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/keyframe-effect.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/keyframe-interpolations.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/matrix-decomposition.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/matrix-interpolation.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/normalize-keyframes.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/number-handler.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/position-handler.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/property-interpolation.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/property-names.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/scope.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/shadow-handler.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/shape-handler.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/tick.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/timeline.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/timing-utilities.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/transform-handler.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/visibility-handler.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/web-animations-bonus-cancel-events.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/web-animations-bonus-object-form-keyframes.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/src/web-animations-next-animation.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/web-animations-next-lite.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/web-animations-next-lite.min.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/web-animations-next.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/web-animations-next.min.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/web-animations.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/web-animations-js/web-animations.min.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/core/core.module.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/not-found/not-found.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/not-found/not-found.component.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/shared/messages/notification.service.ts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/shared/messages/snackbar/snackbar.component.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/shared/messages/snackbar/snackbar.component.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/app/shared/messages/snackbar/snackbar.component.ts</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/http-proxy/.npmignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/node-sass/vendor/linux-x64-59/binding.node</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/ripemd160/LICENSE.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/ripemd160/node_modules/hash-base/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/ripemd160/node_modules/hash-base/index.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/ripemd160/node_modules/hash-base/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/safe-buffer/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/node_modules/safe-buffer/test.js</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -421,33 +1504,46 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56816000" />
+    <option name="totallyTimeSpent" value="61289000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1" y="0" width="1368" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info id="npm" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3209352" />
-      <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24791667" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5036603" side_tool="true" weight="0.3291536" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3296875" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49633968" visible="true" weight="0.2711599" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2203514" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24791667" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3209352" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -589,13 +1685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/restaurants/restaurants.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -650,8 +1739,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/shared/shared.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        <state relative-caret-position="100">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -785,16 +1874,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="46" column="57" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="57" />
+        <state relative-caret-position="270">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -812,20 +1901,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="271" column="17" selection-start-line="271" selection-start-column="17" selection-end-line="271" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/restaurants/restaurants.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/restaurants/restaurant/restaurant.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -833,13 +1908,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="276" column="18" selection-start-line="276" selection-start-column="18" selection-end-line="276" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/restaurants/restaurants.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="36" column="80" lean-forward="true" selection-start-line="36" selection-start-column="80" selection-end-line="36" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/restaurants/restaurants.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        <state relative-caret-position="220">
+          <caret line="53" column="41" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/restaurants/restaurants.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
