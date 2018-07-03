@@ -19,6 +19,7 @@ import { OrderSumaryComponent } from './order/order-sumary/order-sumary.componen
 import {SharedModule} from "./shared/shared.module";
 import { NotFoundComponent } from './not-found/not-found.component';
 import {HashLocationStrategy, LocationStrategy} from "@angular/common";
+import { LoginComponent } from './security/login/login.component';
 
 
 @NgModule({
@@ -34,7 +35,8 @@ import {HashLocationStrategy, LocationStrategy} from "@angular/common";
     MenuItemComponent,
     ReviewsComponent,
     OrderSumaryComponent,
-    NotFoundComponent
+    NotFoundComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
