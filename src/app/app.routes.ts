@@ -25,6 +25,6 @@ export const ROUTES: Routes = [
     { path: 'about', loadChildren: './about/about.module#AboutModule'},
     { path: 'order-sumary', component: OrderSumaryComponent},
     { path: 'order', loadChildren: './order/order.module#OrderModule',
-    canLoad: [LoggedInGuard]},
+    canLoad: [LoggedInGuard], canActivate: [LoggedInGuard]},
     { path: '**', component: NotFoundComponent}
 ]

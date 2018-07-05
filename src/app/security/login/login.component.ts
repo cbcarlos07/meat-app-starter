@@ -23,17 +23,19 @@ export class LoginComponent implements OnInit {
         email: this.fb.control('', [Validators.required, Validators.email]),
         password: this.fb.control('', [Validators.required])
     })
-      this.navigateTo = this.activedRoute.snapshot.params['to'] || '/'
+      //btoa = encryptar em base 64
+      this.navigateTo = this.activedRoute.snapshot.params['to'] || btoa('/')
   }
 
   login(){
+      //atob = decryptar do base 64
       this.loginService.login(this.loginForm.value.email,
                               this.loginForm.value.password)
                         .subscribe( user => this.notificationService.notify(`Bem vindo, ${user.name}`),
                            response => //HttpErrorResponse
                                this.notificationService.notify(response.error.message),
                             () => {
-                                this.router.navigate([this.navigateTo])
+                                this.router.navigate([atob(this.navigateTo)])
                             })
   }
 
