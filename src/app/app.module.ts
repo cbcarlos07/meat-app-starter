@@ -1,9 +1,10 @@
 import { BrowserModule } from '@angular/platform-browser';
-import {NgModule, LOCALE_ID, ErrorHandler} from '@angular/core';
+import { NgModule, LOCALE_ID, ErrorHandler} from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
 import { RouterModule } from '@angular/router';
 import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
 import { ROUTES } from "./app.routes";
+
 
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
@@ -16,13 +17,14 @@ import { ShoppingCartComponent } from "./restaurant-detail/shpping-cart/shopping
 import { MenuItemComponent } from "./restaurant-detail/menu-item/menu-item.component";
 import { ReviewsComponent } from "./restaurant-detail/reviews/reviews.component";
 import { OrderSumaryComponent } from './order/order-sumary/order-sumary.component';
-import {SharedModule} from "./shared/shared.module";
+import { SharedModule} from "./shared/shared.module";
 import { NotFoundComponent } from './not-found/not-found.component';
 import { LoginComponent } from './security/login/login.component';
 import { UserDetailComponent } from './header/user-detail/user-detail.component';
-import {ApplicationErrorHandler} from "./app.error-handler";
-
-
+import { ApplicationErrorHandler} from "./app.error-handler";
+import {registerLocaleData} from "@angular/common";
+import locatePt from '@angular/common/locales/pt'
+registerLocaleData(locatePt)
 @NgModule({
   declarations: [
     AppComponent,
@@ -48,7 +50,7 @@ import {ApplicationErrorHandler} from "./app.error-handler";
     RouterModule.forRoot( ROUTES )
   ],
   //providers: [{provide: LocationStrategy, useClass: HashLocationStrategy}, {provide: LOCALE_ID, useValue: 'pt-BR'} ],
-  providers: [ {provide: LOCALE_ID, useValue: 'pt-BR'},
+  providers: [ {provide: LOCALE_ID, useValue: 'pt'},
                {provide: ErrorHandler, useClass: ApplicationErrorHandler}],
   bootstrap: [AppComponent]
 })
