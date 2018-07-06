@@ -36,10 +36,7 @@ export class RadioComponent implements OnInit, ControlValueAccessor {
      */
     registerOnChange(fn: any): void{
       this.onChange = fn
-      paymentOption: new FormControl('', {
-            validators:[Validators.required],
-            updateOn: 'change'
-        })
+
     }
     /**
      * Set the function to be called when the control receives a touch event.
