@@ -24,7 +24,7 @@ import { UserDetailComponent } from './header/user-detail/user-detail.component'
 import { ApplicationErrorHandler} from "./app.error-handler";
 import {registerLocaleData} from "@angular/common";
 import locatePt from '@angular/common/locales/pt'
-registerLocaleData(locatePt)
+registerLocaleData(locatePt, 'pt')
 @NgModule({
   declarations: [
     AppComponent,
