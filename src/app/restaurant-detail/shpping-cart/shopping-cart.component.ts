@@ -4,6 +4,7 @@ import {animate, state, style, transition, trigger, keyframes} from "@angular/an
 @Component({
   selector: 'mt-shpping-cart',
   templateUrl: './shpping-cart.component.html',
+  preserveWhitespaces: true,
   animations: [
       trigger('row', [
           state('ready', style(({opacity: 1}))),
