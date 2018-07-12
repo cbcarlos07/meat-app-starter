@@ -1,6 +1,8 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { trigger, state, style, transition, animate } from "@angular/animations";
 import {Restaurant} from "./restaurant.model";
+import { Observable, from } from "rxjs";
+import { switchMap, tap, debounceTime, distinctUntilChanged, catchError } from "rxjs/operators";
 
 @Component({
   selector: 'mt-restaurant',
